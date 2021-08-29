@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RE>
+  <employee>
+    <EmpID>1</EmpID>
+    <No-AssignedFlats>1</No-AssignedFlats>
+    <Rate>
+    </Rate>
+    <password>123</password>
+  </employee>
+  <employee>
+    <EmpID>2</EmpID>
+    <No-AssignedFlats>5</No-AssignedFlats>
+    <Rate>
+    </Rate>
+    <password>123</password>
+  </employee>
+  <employee>
+    <EmpID>3</EmpID>
+    <No-AssignedFlats>5</No-AssignedFlats>
+    <Rate>
+    </Rate>
+    <password>789</password>
+  </employee>
+  <employee>
+    <EmpID>4</EmpID>
+    <No-AssignedFlats>2</No-AssignedFlats>
+    <Rate>
+    </Rate>
+    <password>123</password>
+  </employee>
+  <employee>
+    <EmpID>5</EmpID>
+    <No-AssignedFlats>1</No-AssignedFlats>
+    <Rate>
+    </Rate>
+    <password>123</password>
+  </employee>
+  <employee>
+    <EmpID>6</EmpID>
+    <No-AssignedFlats>0</No-AssignedFlats>
+    <Rate>6.5</Rate>
+    <password>753</password>
+  </employee>
+</RE>

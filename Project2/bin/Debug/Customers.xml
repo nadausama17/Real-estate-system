@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RE>
+  <customer>
+    <CustomerID>1</CustomerID>
+    <CustomerName>youssef</CustomerName>
+    <Address>cairo</Address>
+    <phoneNO>01026759899</phoneNO>
+    <Password>123</Password>
+    <Favourite>2/3/7/5/99/89/76/66/199/</Favourite>
+  </customer>
+  <customer>
+    <CustomerID>2</CustomerID>
+    <CustomerName>nada</CustomerName>
+    <Address>cairo</Address>
+    <phoneNO>01150765600</phoneNO>
+    <Password>123</Password>
+    <Favourite>
+    </Favourite>
+  </customer>
+</RE>

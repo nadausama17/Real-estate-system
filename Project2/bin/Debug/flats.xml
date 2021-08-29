@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RE>
+  <flat>
+    <FlatID>1</FlatID>
+    <CustomerID>
+    </CustomerID>
+    <EmpID>3</EmpID>
+    <FlatDesc>a</FlatDesc>
+    <Price>5000</Price>
+    <FlatLocation>cairo</FlatLocation>
+    <FlatStatus>not taken</FlatStatus>
+    <CustomerReviews>
+    </CustomerReviews>
+  </flat>
+  <flat>
+    <FlatID>2</FlatID>
+    <CustomerID>
+    </CustomerID>
+    <EmpID>3</EmpID>
+    <FlatDesc>a</FlatDesc>
+    <Price>5000</Price>
+    <FlatLocation>alex</FlatLocation>
+    <FlatStatus>not taken</FlatStatus>
+    <CustomerReviews>
+    </CustomerReviews>
+  </flat>
+  <flat>
+    <FlatID>3</FlatID>
+    <CustomerID>
+    </CustomerID>
+    <EmpID>3</EmpID>
+    <FlatDesc>a</FlatDesc>
+    <Price>5000</Price>
+    <FlatLocation>cairo</FlatLocation>
+    <FlatStatus>not taken</FlatStatus>
+    <CustomerReviews>
+    </CustomerReviews>
+  </flat>
+  <flat>
+    <FlatID>5</FlatID>
+    <CustomerID>
+    </CustomerID>
+    <EmpID>1</EmpID>
+    <FlatDesc>a</FlatDesc>
+    <Price>5000</Price>
+    <FlatLocation>cairo</FlatLocation>
+    <FlatStatus>not taken</FlatStatus>
+    <CustomerReviews>
+    </CustomerReviews>
+  </flat>
+  <flat>
+    <FlatID>6</FlatID>
+    <CustomerID>
+    </CustomerID>
+    <EmpID>3</EmpID>
+    <FlatDesc>a</FlatDesc>
+    <Price>5000</Price>
+    <FlatLocation>alex</FlatLocation>
+    <FlatStatus>not taken</FlatStatus>
+    <CustomerReviews>
+    </CustomerReviews>
+  </flat>
+  <flat>
+    <FlatID>4</FlatID>
+    <CustomerID>
+    </CustomerID>
+    <EmpID>3</EmpID>
+    <FlatDesc>a</FlatDesc>
+    <Price>4000</Price>
+    <FlatLocation>cairo</FlatLocation>
+    <FlatStatus>not taken</FlatStatus>
+    <CustomerReviews>
+    </CustomerReviews>
+  </flat>
+  <flat>
+    <FlatID>7</FlatID>
+    <CustomerID>
+    </CustomerID>
+    <EmpID>2</EmpID>
+    <FlatDesc>a</FlatDesc>
+    <Price>9000</Price>
+    <FlatLocation>alex</FlatLocation>
+    <FlatStatus>not taken</FlatStatus>
+    <CustomerReviews>
+    </CustomerReviews>
+  </flat>
+  <flat>
+    <FlatID>9</FlatID>
+    <CustomerID>
+    </CustomerID>
+    <EmpID>2</EmpID>
+    <FlatDesc>a</FlatDesc>
+    <Price>9000</Price>
+    <FlatLocation>alex</FlatLocation>
+    <FlatStatus>not taken</FlatStatus>
+    <CustomerReviews>
+    </CustomerReviews>
+  </flat>
+  <flat>
+    <FlatID>10</FlatID>
+    <CustomerID>
+    </CustomerID>
+    <EmpID>5</EmpID>
+    <FlatDesc>a</FlatDesc>
+    <Price>4444</Price>
+    <FlatLocation>cairo</FlatLocation>
+    <FlatStatus>not taken</FlatStatus>
+    <CustomerReviews>
+    </CustomerReviews>
+  </flat>
+  <flat>
+    <FlatID>11</FlatID>
+    <CustomerID>
+    </CustomerID>
+    <EmpID>4</EmpID>
+    <FlatDesc>a</FlatDesc>
+    <Price>4444</Price>
+    <FlatLocation>alex</FlatLocation>
+    <FlatStatus>not taken</FlatStatus>
+    <CustomerReviews>
+    </CustomerReviews>
+  </flat>
+  <flat>
+    <FlatID>12</FlatID>
+    <CustomerID>
+    </CustomerID>
+    <EmpID>2</EmpID>
+    <FlatDesc>a</FlatDesc>
+    <Price>4444</Price>
+    <FlatLocation>alex</FlatLocation>
+    <FlatStatus>not taken</FlatStatus>
+    <CustomerReviews>
+    </CustomerReviews>
+  </flat>
+  <flat>
+    <FlatID>13</FlatID>
+    <CustomerID>
+    </CustomerID>
+    <EmpID>2</EmpID>
+    <FlatDesc>a</FlatDesc>
+    <Price>4444</Price>
+    <FlatLocation>alex</FlatLocation>
+    <FlatStatus>not taken</FlatStatus>
+    <CustomerReviews>
+    </CustomerReviews>
+  </flat>
+  <flat>
+    <FlatID>14</FlatID>
+    <CustomerID>
+    </CustomerID>
+    <EmpID>2</EmpID>
+    <FlatDesc>a</FlatDesc>
+    <Price>4444</Price>
+    <FlatLocation>alex</FlatLocation>
+    <FlatStatus>not taken</FlatStatus>
+    <CustomerReviews>
+    </CustomerReviews>
+  </flat>
+  <flat>
+    <FlatID>15</FlatID>
+    <CustomerID>
+    </CustomerID>
+    <EmpID>4</EmpID>
+    <FlatDesc>a</FlatDesc>
+    <Price>7</Price>
+    <FlatLocation>cairo</FlatLocation>
+    <FlatStatus>not taken</FlatStatus>
+    <CustomerReviews>
+    </CustomerReviews>
+  </flat>
+</RE>

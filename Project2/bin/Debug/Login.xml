@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table Name="Emp">
+  <Emp>
+    <ID>10</ID>
+    <Name>youssef</Name>
+    <Password>123</Password>
+  </Emp>
+  <Emp>
+    <ID>3</ID>
+    <Name>youssef</Name>
+    <Password>123</Password>
+  </Emp>
+  <Emp>
+    <ID>5</ID>
+    <Name>youssef</Name>
+    <Password>123</Password>
+  </Emp>
+</table>
